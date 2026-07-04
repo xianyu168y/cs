@@ -3,6 +3,6 @@ xiangjiao
 banana
 apple
 zhhishiku
-香蕉
+菠萝
 西瓜
 pg
